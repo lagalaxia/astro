@@ -3,13 +3,12 @@
 
 :star::star2::boom::star2::star:
 
-
 :sparkles:
 :dizzy:
 :sparkles:
 
 ### Astro
-<br>
+
 :aries:
 :taurus:
 :gemini:
@@ -23,7 +22,7 @@
 :aquarius:
 :pisces:
 :ophiuchus:
-</br>
+
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
@@ -80,6 +79,7 @@ function fancyAlert(arg) {
 def foo():
     if not bar:
         return True
+        
   * Item 1
 * Item 2
   * Item 2a
