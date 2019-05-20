@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## I see you.
 
-I see you.
 
 :star::star2::boom::star2::star:
+
 
 :sparkles:
 :dizzy:
 :sparkles:
+
+### Astro
+<br>
+:aries:
+:taurus:
+:gemini:
+:cancer:
+:leo:
+:virgo:
+:libra:
+:scorpius:
+:sagittarius:
+:capricorn:
+:aquarius:
+:pisces:
+:ophiuchus:
+</br>
 
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
